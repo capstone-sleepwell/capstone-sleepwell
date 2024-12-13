@@ -4,7 +4,7 @@
 <p>Our project aims to develop an application that can predict and improve the user's sleep quality by utilizing the three learning paths that we have studied, such as machine learning, cloud computing, and mobile development. The application will provide recommendations or tips based on the prediction results of user input.</p>
 
 Bangkit ID | Name | Path
---- | --- | --- | --- |---
+--- | --- | ---
 C175B4KY1099 | Dhimas Satriyo Wibowo | Cloud Computing
 C175B4KY2348 | M. Ilham Aji Saputra | Cloud Computing
 M764B4KX3315 | Nenda Maulin Kurniati | Machine Learning
