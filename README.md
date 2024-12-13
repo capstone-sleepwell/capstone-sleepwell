@@ -1,4 +1,3 @@
-<center>
 <b><h1>SleepWell</h1></b>
 
 <b><h3>About</h3></b>
@@ -15,7 +14,8 @@ M621B4KY3989 | Ryo Marchellino | Machine Learning
 A175B4KY4053 | Samuel Bryant Eka Putra | Mobile Development
 A175B4KY4577 | Yusua Febrian Raharjo | Mobile Development
 
-</center>
+<b><h3>App Demo</h3></b>
+[Download APK here](http://bit.ly/49yCRNq)
 <!--
 **capstone-sleepwell/capstone-sleepwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
