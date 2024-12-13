@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img src="blob:https://giphy.com/9e7e89bc-64c0-49d4-bb48-802fbaf59f4f" >
-
+[](blob:https://giphy.com/9e7e89bc-64c0-49d4-bb48-802fbaf59f4f)
 <!--
 **capstone-sleepwell/capstone-sleepwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
