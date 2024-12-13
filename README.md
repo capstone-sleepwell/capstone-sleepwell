@@ -1,8 +1,10 @@
+<center>
 <b><h1>SleepWell</h1></b>
 
 <b><h3>About</h3></b>
 <p>Our project aims to develop an application that can predict and improve the user's sleep quality by utilizing the three learning paths that we have studied, such as machine learning, cloud computing, and mobile development. The application will provide recommendations or tips based on the prediction results of user input.</p>
 
+<b><h3>Our Team</h3></b>
 Bangkit ID | Name | Path
 --- | --- | ---
 C175B4KY1099 | Dhimas Satriyo Wibowo | Cloud Computing
@@ -12,6 +14,8 @@ M001B4KX3833 | Rifa Khaira Fazila | Machine Learning
 M621B4KY3989 | Ryo Marchellino | Machine Learning
 A175B4KY4053 | Samuel Bryant Eka Putra | Mobile Development
 A175B4KY4577 | Yusua Febrian Raharjo | Mobile Development
+
+</center>
 <!--
 **capstone-sleepwell/capstone-sleepwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
