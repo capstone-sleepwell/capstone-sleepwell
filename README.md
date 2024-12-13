@@ -17,7 +17,7 @@ A175B4KY4577 | Yusua Febrian Raharjo | Mobile Development
 <b><h3>App Demo</h3></b>
 [Download APK here](https://github.com/capstone-sleepwell/capstone-sleepwell/releases/download/demo/SleepWell.apk)
 
-<img src="https://github.com/capstone-sleepwell/capstone-sleepwell/blob/main/demo.gif?raw=true" width="40" height="40" />
+<img src="https://github.com/capstone-sleepwell/capstone-sleepwell/blob/main/demo.gif?raw=true" />
 <!--
 **capstone-sleepwell/capstone-sleepwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
