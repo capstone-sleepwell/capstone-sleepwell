@@ -15,7 +15,7 @@ A175B4KY4053 | Samuel Bryant Eka Putra | Mobile Development
 A175B4KY4577 | Yusua Febrian Raharjo | Mobile Development
 
 <b><h3>App Demo</h3></b>
-[Download APK here](http://bit.ly/49yCRNq)
+[Download APK here](https://github.com/capstone-sleepwell/capstone-sleepwell/releases/download/demo/SleepWell.apk)
 <!--
 **capstone-sleepwell/capstone-sleepwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
