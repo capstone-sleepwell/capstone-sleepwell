@@ -1,6 +1,6 @@
-## SleepWell
+<h1>SleepWell</h1>
 
-<h1>About</h1>
+## About
 <p>Our project aims to develop an application that can predict and improve the user's sleep quality by utilizing the three learning paths that we have studied, such as machine learning, cloud computing, and mobile development. The application will provide recommendations or tips based on the prediction results of user input.</p>
 <!--
 **capstone-sleepwell/capstone-sleepwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
